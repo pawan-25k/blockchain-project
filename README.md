@@ -35,4 +35,3 @@ src/
 └── contract/
     └── lottery.js      # Contract address and ABI
 ```
----
