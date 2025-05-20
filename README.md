@@ -28,9 +28,9 @@ A simple Ethereum-based lottery decentralized application (DApp) built with **So
 
 ## 📁 Project Structure
 src/
-│
-├── App.js              # Main React component
-├── App.css             # Styling for the UI
-└── contract/
-    └── lottery.js      # Contract address and ABI
+-│
+-├── App.js              # Main React component
+-├── App.css             # Styling for the UI
+-└── contract/
+    -└── lottery.js      # Contract address and ABI
 
