@@ -34,5 +34,5 @@ src/
 ├── App.css             # Styling for the UI
 └── contract/
     └── lottery.js      # Contract address and ABI
-
+```
 ---
