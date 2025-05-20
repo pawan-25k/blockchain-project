@@ -26,15 +26,5 @@ A simple Ethereum-based lottery decentralized application (DApp) built with **So
 
 ---
 
-## 📦 Project Structure
-src/
-├── contract/
-│   └── lottery.js            # Contract ABI and deployed Sepolia address
-│
-├── components/               # (Optional) Reusable UI components
-│   └── WalletButton.js       # Button to connect MetaMask wallet
-│
-├── utils/                    # (Optional) Utility/helper functions
-│   └── format.js             # Example: ETH formatter or string shortener
-│
-├── App.js                    # Main React component for the DApp
+## 📁 Project Structure
+<pre> src/ │ ├── App.js # Main React component ├── App.css # Styling for the UI └── contract/ └── lottery.js # Contract address and ABI </pre>
