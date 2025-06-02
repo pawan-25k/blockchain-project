@@ -24,13 +24,3 @@ A simple Ethereum-based lottery decentralized application (DApp) built with **So
 - **Sepolia Testnet** – Ethereum test network
 
 ---
-
-## 📦 Project Structure
-``
-src/
-│
-├── App.js # Main React component
-├── App.css # Styling for the UI
-└── contract/
-└── lottery.js # Contract address and ABI
-``
